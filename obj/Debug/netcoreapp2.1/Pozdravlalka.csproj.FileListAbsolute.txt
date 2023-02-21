@@ -1,0 +1,11 @@
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\bin\Debug\netcoreapp2.1\Pozdravlalka.deps.json
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\bin\Debug\netcoreapp2.1\Pozdravlalka.runtimeconfig.json
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\bin\Debug\netcoreapp2.1\Pozdravlalka.runtimeconfig.dev.json
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\bin\Debug\netcoreapp2.1\Pozdravlalka.dll
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\bin\Debug\netcoreapp2.1\Pozdravlalka.pdb
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\obj\Debug\netcoreapp2.1\Pozdravlalka.csprojAssemblyReference.cache
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\obj\Debug\netcoreapp2.1\Pozdravlalka.csproj.CoreCompileInputs.cache
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\obj\Debug\netcoreapp2.1\Pozdravlalka.AssemblyInfoInputs.cache
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\obj\Debug\netcoreapp2.1\Pozdravlalka.AssemblyInfo.cs
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\obj\Debug\netcoreapp2.1\Pozdravlalka.dll
+C:\Users\edemb\Desktop\Bog\Pozdravlalka\Pozdravlalka\obj\Debug\netcoreapp2.1\Pozdravlalka.pdb
